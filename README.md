@@ -1,7 +1,7 @@
 ### Olá! eu sou o Adevaldo Filho! ✋
 
 
-[![Blog](https://img.shields.io/website?label=theolimpios.com&style=for-the-badge&url=http://theolimpios.com)]
+[![Blog](https://img.shields.io/website?label=theolimpios.com&style=for-the-badge&url=http://theolimpios.com)](https://theolimpios.com)
 
 ## Me acompanhe nas redes:
 
@@ -29,3 +29,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ## Contato:
 - adevaldofilho483@gmail.com
+- 
